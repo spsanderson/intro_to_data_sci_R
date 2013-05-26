@@ -1,0 +1,21 @@
+{
+    "contents" : "",
+    "created" : 1366553352224.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "282B1DC4",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "properties" : {
+        "caption" : "USstatePops",
+        "contentUrl" : "content?title=USstatePops&file=effb76c5d91d4948a8509a3ade5486e3.htm",
+        "displayedObservations" : 51,
+        "displayedVariables" : 2,
+        "totalObservations" : 51,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
